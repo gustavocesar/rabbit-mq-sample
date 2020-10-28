@@ -1,0 +1,16 @@
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\Receive.exe
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\Receive.deps.json
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.json
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\Receive.runtimeconfig.dev.json
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\Receive.dll
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.csprojAssemblyReference.cache
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfoInputs.cache
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.AssemblyInfo.cs
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.csproj.CopyComplete
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.dll
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.pdb
+C:\Users\gustavo.cesar\source\repos\rabbit-mq-sample\Receive\obj\Debug\netcoreapp3.1\Receive.genruntimeconfig.cache
